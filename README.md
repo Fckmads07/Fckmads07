@@ -6,7 +6,7 @@
 ## My skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,docker,linux,python,java,js,bash,rust,vim,mysql,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=react,vite,linux,python,java,js,bash,,mysql,arduino,raspberrypi" />
 </p>
 
 ---
