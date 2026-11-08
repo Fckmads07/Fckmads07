@@ -1,24 +1,49 @@
-<h1 align="center">Hi 👋, I'm Madhav</h1>
-<h3 align="center">A computer science student in Canada</h3>
+# Madhav
+
+**Computer Science student | Cégep Marie-Victorin, Montréal, QC**
+
+Interested in networking, systems, and backend development. I build projects to understand how software and infrastructure work end to end.
 
 ---
 
-## My skills
+## Currently
+
+- Studying computer science (networking, security, operating systems, software architecture, data structures)
+- Designing and simulating networks in Cisco Packet Tracer
+- Building a turn-based RPG REST API in Java
+- Working on embedded projects with MicroPython
+- Looking for an **internship** starting [Summer 2027]
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, Java, JavaScript, SQL |
+| **Networking** | Network design, VLSM and subnetting, static routing, NAT, Cisco Packet Tracer |
+| **Virtualization** | VMware |
+| **Systems** | Linux, Bash |
+| **Tools** | Git, MySQL |
+| **Embedded** | MicroPython, Arduino, Raspberry Pi |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,linux,python,java,js,bash,,mysql,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,linux,bash,arduino,raspberrypi&theme=dark" />
 </p>
+
+## Languages
+
+French · English ([level])
 
 ---
 
-## My stats
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/madhav-ramdin-241a06377/) ·
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fckmads07&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fckmads07&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fckmads07&show_icons=true&theme=dark&hide_border=true" height="150" />
 </p>
 
 <!--
