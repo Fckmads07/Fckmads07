@@ -42,6 +42,18 @@ French · English ([level])
 [LinkedIn](https://www.linkedin.com/in/madhav-ramdin-241a06377/) ·
 ---
 
+
+## My stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fckmads07&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fckmads07&show_icons=true&theme=dark" />
+</p>
+
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fckmads07&show_icons=true&theme=dark&hide_border=true" height="150" />
 </p>
