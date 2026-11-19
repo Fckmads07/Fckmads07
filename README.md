@@ -45,6 +45,7 @@ I'm a **Computer Science student at Cégep Marie-Victorin** in Montréal, intere
 | Project | Description | Stack |
 |---|---|---|
 | [**Esp-32-alarme**](https://github.com/Fckmads07/Esp-32-alarme) *(in progress)* | **ChronoAlarme**: standalone stopwatch, timer and alarm clock with a 16x2 I2C LCD and I2S audio output | MicroPython · ESP32 |
+| [**CryptoTrack**](https://github.com/Fckmads07/CryptoTrack) | Browse, search and favorite cryptocurrencies, powered by my own FastAPI REST API | React · Vite · Python · FastAPI |
 | [**Timer**](https://github.com/Fckmads07/Timer) | Clock, stopwatch, countdown and Pomodoro web app with world clocks, alarms and animated backgrounds | HTML · CSS · JavaScript |
 | [**Programmation-De-Plateforme**](https://github.com/Fckmads07/Programmation-De-Plateforme) | Embedded programming labs: GPIO, PWM, ADC and I2C peripherals on an ESP32 | MicroPython · ESP32 |
 | [**Meme_generator**](https://github.com/Fckmads07/Meme_generator) | Meme generator using the Imgflip API, with custom top and bottom captions | React · Vite |
