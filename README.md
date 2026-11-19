@@ -1,69 +1,73 @@
-# Madhav
-
-**Computer Science student | Cégep Marie-Victorin, Montréal, QC**
-
-Interested in networking, systems, and backend development. I build projects to understand how software and infrastructure work end to end.
-
----
-
-## Currently
-
-- Studying computer science (networking, security, operating systems, software architecture, data structures)
-- Designing and simulating networks in Cisco Packet Tracer
-- Building a turn-based RPG REST API in Java
-- Working on embedded projects with MicroPython
-- Looking for an **internship** starting [Summer 2027]
-
----
-
-## Technical Skills
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Python, Java, JavaScript, SQL |
-| **Networking** | Network design, VLSM and subnetting, static routing, NAT, Cisco Packet Tracer |
-| **Virtualization** | VMware |
-| **Systems** | Linux, Bash |
-| **Tools** | Git, MySQL |
-| **Embedded** | MicroPython, Arduino, Raspberry Pi |
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,linux,bash,arduino,raspberrypi&theme=dark" />
+<p align="center">
+  <img src="./assets/header.svg" alt="Madhav Ramdin — Computer Science student focused on networking, systems and backend development" width="100%" />
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/madhav-ramdin-241a06377/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Location-Montr%C3%A9al%2C%20QC-30363d?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Montréal, QC" />
+  <img src="https://img.shields.io/badge/Open%20to-Summer%202027%20Internships-2ea043?style=for-the-badge" alt="Open to Summer 2027 internships" />
+</p>
+
+---
+
+## About Me
+
+I'm a **Computer Science student at Cégep Marie-Victorin** in Montréal, interested in **networking, systems, and backend development**. I like building projects that show me how software and infrastructure work end to end, from the network layer up to the API.
+
+### What I'm working on
+
+- 🌐 Designing and simulating networks in **Cisco Packet Tracer** (VLSM, static routing, NAT)
+- ⚔️ Building a **turn-based RPG REST API in Java**
+- 🔌 Embedded projects with **MicroPython** on ESP32, Arduino and Raspberry Pi
+- 📚 Coursework in networking, security, operating systems, software architecture and data structures
+- 💼 Looking for an **internship starting Summer 2027**
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,linux,bash,arduino,raspberrypi,vmware&theme=dark&perline=10" alt="Python, Java, JavaScript, MySQL, Git, Linux, Bash, Arduino, Raspberry Pi, VMware" />
+</p>
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · Java · JavaScript · SQL |
+| **Networking** | Network design · VLSM & subnetting · Static routing · NAT · Cisco Packet Tracer |
+| **Systems** | Linux · Bash · VMware |
+| **Databases & Tools** | MySQL · Git |
+| **Embedded** | MicroPython · ESP32 · Arduino · Raspberry Pi |
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Esp-32-alarme**](https://github.com/Fckmads07/Esp-32-alarme) | Alarm system built on an ESP32 microcontroller | MicroPython · ESP32 |
+| [**Programmation-De-Plateforme**](https://github.com/Fckmads07/Programmation-De-Plateforme) | Platform programming coursework | Python |
+| [**Meme_generator**](https://github.com/Fckmads07/Meme_generator) | Meme generator web app (school project) | JavaScript |
+| **RPG REST API** *(in progress)* | Turn-based RPG game engine exposed as a REST API | Java |
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fckmads07&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fckmads07&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Fckmads07&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
 
 ## Languages
 
-French · English ([level])
-
----
+🇫🇷 French · 🇬🇧 English
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/madhav-ramdin-241a06377/) ·
----
-
-
-## My stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fckmads07&theme=dark" />
-</p>
-
-
-
-
-
-<!--
-**Fckmads07/Fckmads07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The best way to reach me is on **[LinkedIn](https://www.linkedin.com/in/madhav-ramdin-241a06377/)**.
