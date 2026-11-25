@@ -27,15 +27,16 @@ I'm a **Computer Science student at Cégep Marie-Victorin** in Montréal, intere
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,linux,bash,arduino,raspberrypi,vmware&theme=dark&perline=10" alt="Python, Java, JavaScript, MySQL, Git, Linux, Bash, Arduino, Raspberry Pi, VMware" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,mysql,react,vite,fastapi,html,css,git,linux,bash,arduino,raspberrypi,vmware&theme=dark&perline=8" alt="Python, Java, JavaScript, TypeScript, MySQL, React, Vite, FastAPI, HTML, CSS, Git, Linux, Bash, Arduino, Raspberry Pi, VMware" />
 </p>
 
 | Area | Technologies |
 |---|---|
-| **Languages** | Python · Java · JavaScript · SQL |
+| **Languages** | Python · Java · JavaScript · TypeScript · SQL |
 | **Networking** | Network design · VLSM & subnetting · Static routing · NAT · Cisco Packet Tracer |
 | **Systems** | Linux · Bash · VMware |
-| **Databases & Tools** | MySQL · Git |
+| **Web** | React · Vite · FastAPI · HTML · CSS |
+| **Databases & Tools** | MySQL · Git · GitHub |
 | **Embedded** | MicroPython · ESP32 · Arduino · Raspberry Pi |
 
 ---
@@ -44,8 +45,9 @@ I'm a **Computer Science student at Cégep Marie-Victorin** in Montréal, intere
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Esp-32-alarme**](https://github.com/Fckmads07/Esp-32-alarme) *(in progress)* | **ChronoAlarme**: standalone stopwatch, timer and alarm clock with a 16x2 I2C LCD and I2S audio output | MicroPython · ESP32 |
-| [**CryptoTrack**](https://github.com/Fckmads07/CryptoTrack) | Browse, search and favorite cryptocurrencies, powered by my own FastAPI REST API | React · Vite · Python · FastAPI |
+| [**Esp-32-Radio**](https://github.com/Fckmads07/Esp-32-Radio) *(in progress)* | **ChronoAlarme**: standalone stopwatch, timer and alarm clock with a 16x2 I2C LCD and I2S audio output | MicroPython · ESP32 |
+| [**portfolio**](https://github.com/Fckmads07/portfolio) | My personal portfolio site, with a design inspired by Parrot OS: typing hero, terminal, projects and experience pages | React · TypeScript · Vite |
+| [**CryptoTrack**](https://github.com/Fckmads07/CryptoTrack) · [live](https://crypto-track-ljis.vercel.app) | Browse, search and favorite cryptocurrencies, powered by my own FastAPI REST API | React · Vite · Python · FastAPI |
 | [**Timer**](https://github.com/Fckmads07/Timer) | Clock, stopwatch, countdown and Pomodoro web app with world clocks, alarms and animated backgrounds | HTML · CSS · JavaScript |
 | [**Programmation-De-Plateforme**](https://github.com/Fckmads07/Programmation-De-Plateforme) | Embedded programming labs: GPIO, PWM, ADC and I2C peripherals on an ESP32 | MicroPython · ESP32 |
 | [**Meme_generator**](https://github.com/Fckmads07/Meme_generator) | Meme generator using the Imgflip API, with custom top and bottom captions | React · Vite |
@@ -56,7 +58,7 @@ I'm a **Computer Science student at Cégep Marie-Victorin** in Montréal, intere
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fckmads07&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fckmads07&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fckmads07&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" height="165" />
 </p>
 
