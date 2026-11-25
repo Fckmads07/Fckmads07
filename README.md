@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Madhav Ramdin — Computer Science student focused on networking, systems and backend development" width="100%" />
+  <img src="./assets/header.svg" alt="Madhav Ramdin — Computer Science student focused on networking and cybersecurity" width="100%" />
 </p>
 
 <p align="center">
@@ -13,15 +13,16 @@
 
 ## About Me
 
-I'm a **Computer Science student at Cégep Marie-Victorin** in Montréal, interested in **networking, systems, and backend development**. I like building projects that show me how software and infrastructure work end to end, from the network layer up to the API.
+I'm a **Computer Science student at Cégep Marie-Victorin** in Montréal, focused on **networking and cybersecurity**. I like designing networks, understanding how traffic moves through them, and learning how systems get attacked — and how to defend them.
 
 ### What I'm working on
 
 - 🌐 Designing and simulating networks in **Cisco Packet Tracer** (VLSM, static routing, NAT)
-- ⚔️ Building a **turn-based RPG REST API in Java**
+- 🛡️ Investigating **security incidents** from web server, application and DNS logs
+- 🐧 Configuring **Linux networking** with `ip`, `nmcli` and Netplan
 - 🔌 Embedded projects with **MicroPython** on ESP32, Arduino and Raspberry Pi
 - 📚 Coursework in networking, security, operating systems, software architecture and data structures
-- 💼 Looking for an **internship starting Summer 2027**
+- 💼 Looking for an **internship starting Summer 2027** in networking, IT infrastructure or cybersecurity
 
 ---
 
@@ -33,9 +34,10 @@ I'm a **Computer Science student at Cégep Marie-Victorin** in Montréal, intere
 
 | Area | Technologies |
 |---|---|
+| **Networking** | Network design · OSI / TCP-IP · VLSM & subnetting · Static routing · NAT · Cisco Packet Tracer |
+| **Security** | Log analysis · Incident investigation · Web & DNS logs |
+| **Systems** | Linux · `ip` / `nmcli` / Netplan · Bash · VMware |
 | **Languages** | Python · Java · JavaScript · TypeScript · SQL |
-| **Networking** | Network design · VLSM & subnetting · Static routing · NAT · Cisco Packet Tracer |
-| **Systems** | Linux · Bash · VMware |
 | **Web** | React · Vite · FastAPI · HTML · CSS |
 | **Databases & Tools** | MySQL · Git · GitHub |
 | **Embedded** | MicroPython · ESP32 · Arduino · Raspberry Pi |
