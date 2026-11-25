@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://madhav-ramdin-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio: madhav-ramdin-portfolio.vercel.app" /></a>
   <a href="https://www.linkedin.com/in/madhav-ramdin-241a06377/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Location-Montr%C3%A9al%2C%20QC-30363d?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Montréal, QC" />
   <img src="https://img.shields.io/badge/Open%20to-Summer%202027%20Internships-2ea043?style=for-the-badge" alt="Open to Summer 2027 internships" />
@@ -46,7 +47,7 @@ I'm a **Computer Science student at Cégep Marie-Victorin** in Montréal, intere
 | Project | Description | Stack |
 |---|---|---|
 | [**Esp-32-Radio**](https://github.com/Fckmads07/Esp-32-Radio) *(in progress)* | **ChronoAlarme**: standalone stopwatch, timer and alarm clock with a 16x2 I2C LCD and I2S audio output | MicroPython · ESP32 |
-| [**portfolio**](https://github.com/Fckmads07/portfolio) | My personal portfolio site, with a design inspired by Parrot OS: typing hero, terminal, projects and experience pages | React · TypeScript · Vite |
+| [**portfolio**](https://github.com/Fckmads07/portfolio) · [live](https://madhav-ramdin-portfolio.vercel.app) | My networking & cybersecurity portfolio, with GitHub stats that update automatically every two days | React · TypeScript · Vite |
 | [**CryptoTrack**](https://github.com/Fckmads07/CryptoTrack) · [live](https://crypto-track-ljis.vercel.app) | Browse, search and favorite cryptocurrencies, powered by my own FastAPI REST API | React · Vite · Python · FastAPI |
 | [**Timer**](https://github.com/Fckmads07/Timer) | Clock, stopwatch, countdown and Pomodoro web app with world clocks, alarms and animated backgrounds | HTML · CSS · JavaScript |
 | [**Programmation-De-Plateforme**](https://github.com/Fckmads07/Programmation-De-Plateforme) | Embedded programming labs: GPIO, PWM, ADC and I2C peripherals on an ESP32 | MicroPython · ESP32 |
